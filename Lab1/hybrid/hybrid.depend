@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630136482 source:d:\ntu\year2sem1\cz2101\lab1\hybrid\main.c
+	<stdio.h>
+	<windows.h>
+
